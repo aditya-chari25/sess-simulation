@@ -1,5 +1,5 @@
 # Wiper Mechanism (Simulation) 📺 
-<img src="https://github.com/jatin-47/Wiper-Mechanism/blob/main/Images/title.gif" align="right" style="display:inline;" width="380" >
+<img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/title.gif" align="right" style="display:inline;" width="380" >
 
 Simulator for a **4-bar wiper mechanism** with motion analysis and UI for user to change parameters.<br>
 [https://mechsessional-assignment.netlify.app/](https://mechsessional-assignment.netlify.app/)

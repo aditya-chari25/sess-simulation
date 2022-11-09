@@ -2,7 +2,7 @@
 <img src="https://github.com/jatin-47/Wiper-Mechanism/blob/main/Images/title.gif" align="right" style="display:inline;" width="380" >
 
 Simulator for a **4-bar wiper mechanism** with motion analysis and UI for user to change parameters.<br>
-[https://jatin-47.github.io/Wiper-Mechanism/index.html](https://jatin-47.github.io/Wiper-Mechanism/index.html)
+[https://mechsessional-assignment.netlify.app/](https://mechsessional-assignment.netlify.app/)
 
 ### Features: ✨
 1. Smooth real-time simulation using JavaScript.
@@ -18,7 +18,7 @@ A simple JavaScript library called [``PrairieDraw.js``](https://prairielearn.rea
 
 - PrairieDraw Repo :- [martin70/PrairieDraw.js](https://github.com/martin70/PrairieDraw.js)
 
-See the [userManual.html](https://jatin-47.github.io/Wiper-Mechanism/User%20Manual/userManual.html) in the User Manual folder, or use the JsDoc toolkit to generate the documentation with the included Makefile.
+See the [userManual.html] in the User Manual folder, or use the JsDoc toolkit to generate the documentation with the included Makefile.
 
 ## Instructions: 🎮
 - Adjust the parameters to the values you want and then click "Start Animation" button.

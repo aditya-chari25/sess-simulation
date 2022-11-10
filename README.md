@@ -33,5 +33,5 @@ See the [userManual.html] in the User Manual folder, or use the JsDoc toolkit to
 - Press "Reset" button to get to the default setttings.
 
 ## Screenshots: 
-<img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/ss1.png" alt="SS1" width="1000">
+<img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/sesspic.png" alt="SS1" width="1000">
 <img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/labelled.png" align="center" width="600">

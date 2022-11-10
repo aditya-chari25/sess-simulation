@@ -4,12 +4,12 @@
 Simulator for a **4-bar wiper mechanism** with motion analysis and UI for user to change parameters.<br>
 [https://mechsessional-assignment.netlify.app/](https://mechsessional-assignment.netlify.app/)
 
-### Team Members: ✨
+### Team Members: 
 1. 20MF10002 - Aditya Chari S
 2. 20ME30012 - Arnab Kr Borah
 3. 20ME30069 - Vishal Kumar
 
-### Features: ✨
+### Features: 
 1. Smooth real-time simulation using JavaScript.
 2. Real-time parameter adjustments possible.
 3. Graphs for speed vs time and mod acceleration vs time.
@@ -25,13 +25,13 @@ A simple JavaScript library called [``PrairieDraw.js``](https://prairielearn.rea
 
 See the [userManual.html] in the User Manual folder, or use the JsDoc toolkit to generate the documentation with the included Makefile.
 
-## Instructions: 🎮
+## Instructions: 
 - Adjust the parameters to the values you want and then click "Start Animation" button.
 - You can also adjust the parameters during the simulation to see real-time changes.
 - Toogle butttons to reveal or hide items.
 - "i" buttons are added for extra information.
 - Press "Reset" button to get to the default setttings.
 
-## Screenshots: 📷
+## Screenshots: 
 <img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/ss1.png" alt="SS1" width="1000">
 <img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/labelled.png" align="center" width="600">

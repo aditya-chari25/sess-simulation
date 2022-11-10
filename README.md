@@ -1,8 +1,13 @@
-# Wiper Mechanism (Simulation) 📺 
+# Wiper Mechanism (Simulation) 
 <img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/title.gif" align="right" style="display:inline;" width="380" >
 
 Simulator for a **4-bar wiper mechanism** with motion analysis and UI for user to change parameters.<br>
 [https://mechsessional-assignment.netlify.app/](https://mechsessional-assignment.netlify.app/)
+
+### Team Members: ✨
+1. 20MF10002 - Aditya Chari S
+2. 20ME30012 - Arnab Kr Borah
+3. 20ME30069 - Vishal Kumar
 
 ### Features: ✨
 1. Smooth real-time simulation using JavaScript.

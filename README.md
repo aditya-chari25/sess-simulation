@@ -34,4 +34,4 @@ See the [userManual.html] in the User Manual folder, or use the JsDoc toolkit to
 
 ## Screenshots: 
 <img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/sess-pic.png" alt="SS1" width="1000">
-<img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/labelled.png" align="center" width="600">
+<img src="https://github.com/aditya-chari25/sess-simulation/blob/main/Images/labelled.png" align="center" width="400">
